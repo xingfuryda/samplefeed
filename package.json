@@ -4,7 +4,8 @@
   "description": "sample rss feed in nodejs",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.7.2"
+    "express": "^4.7.2",
+    "feed": "^0.2.6"
   },
   "devDependencies": {},
   "scripts": {
