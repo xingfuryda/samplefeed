@@ -1,0 +1,24 @@
+{
+  "name": "samplefeed",
+  "version": "0.0.0",
+  "description": "sample rss feed in nodejs",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xingfuryda/samplefeed.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xingfuryda/samplefeed/issues"
+  },
+  "homepage": "https://github.com/xingfuryda/samplefeed"
+}
